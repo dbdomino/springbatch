@@ -1,0 +1,2 @@
+application.yaml 만들기
+main에 @EnableBatchProcessing   붙이기
